@@ -40,7 +40,7 @@
 
 - Administração de **Windows Server** (AD, GPOs, DNS, File Server)
 - Configuração e gestão de **MikroTik** (VPN SSTP, IPsec site-to-site, NAT, firewall, roteamento, failover, DHCP)
-- Monitoramento com **Zabbix** e inventário com **GLPI**
+- Monitoramento com **Zabbix** e inventário/tickets com **GLPI**
 - Experiência com **DNS interno e políticas de segurança**
 
 ---

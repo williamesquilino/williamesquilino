@@ -81,7 +81,7 @@
 - **Cisco CCNA** *(em andamento)*
 - **HackOne Pro – Cloud Computing**
 - **HackOne Pro – CCNA Vol. 1 e 2**
-- Cursos de **Zabbix**, **Docker** e **DevOps**
+- Cursos de **Zabbix**, **Linux**, **Docker** e **DevOps**
 
 ---
 

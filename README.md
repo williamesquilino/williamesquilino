@@ -79,6 +79,7 @@
 
 ## 🏆 **Certificações e Estudos**
 - **Cisco CCNA** *(em andamento)*
+- **AWS Cloud Practitioner** *(em andamento)*
 - **HackOne Pro – Cloud Computing**
 - **HackOne Pro – CCNA Vol. 1 e 2**
 - Cursos de **Zabbix**, **Linux**, **Docker** e **DevOps**
